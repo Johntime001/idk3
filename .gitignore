@@ -1,18 +1,20 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+{
+  "content": "**TEST**",
+  "embed": {
+    "color": 6887363,
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/roblox/images/4/46/R15dance1.gif/revision/latest/scale-to-width-down/100?cb=20190706232244",
+      "text": "Whats Up Bitch"
+    },
+    "thumbnail": {
+      "url": ""
+    },
+    "image": {
+      "url": "https://vignette.wikia.nocookie.net/roblox/images/4/46/R15dance1.gif/revision/latest/scale-to-width-down/100?cb=20190706232244"
+    },
+    "author": {
+      "name": "Raf36",
+      "url": "https://discordapp.com",
+      "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"}
+      }    
+  }
